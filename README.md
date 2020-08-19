@@ -1,5 +1,5 @@
 # ImageClassifier
-Image classifier is a machine learning project classify images using Machine Learning Deep Learning techniques using Pytorch
+Image classifier is a machine learning project classify images using Deep Learning techniques using Pytorch
 
 ## Table of Contents
 Installation
