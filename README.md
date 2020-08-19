@@ -28,14 +28,14 @@ The project is broken down into multiple steps:
 
 We'll lead you through each part which you'll implement in Python.
 
-When you've completed this project, you'll have an application that can be trained on any set of labeled images. Here your network will be learning about flowers and end up as a command line application. But, what you do with your new skills depends on your imagination and effort in building a dataset. For example, imagine an app where you take a picture of a car, it tells you what the make and model is, then looks up information about it. Go build your own dataset and make something new.
-
-First up is importing the packages you'll need. It's good practice to keep all the imports at the beginning of your code. As you work through this notebook and find you need to import a package, make sure to add the import up here.
+This is an application that can be trained on any set of labeled images. Here network will be learning about flowers and end up as a command line application. But, what you do with your new skills depends on your imagination and effort in building a dataset. For example, imagine an app where you take a picture of a car, it tells you what the make and model is, then looks up information about it. Go build your own dataset and make something new.
 
 ## File Descriptions
 
 cat_to_name.json: Provides mapping inforamtion between flower id and name.
+
 Image Classifier Project.ipynb: Is a jupyter notebook provides detailed implementation of this project.
+
 workspace_utils.py is a helper python library 
 
 
